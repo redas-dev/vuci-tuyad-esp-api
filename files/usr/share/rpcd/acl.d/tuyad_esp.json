@@ -1,0 +1,15 @@
+{
+  "services/tuyad_esp": {
+    "description": "tuyad_esp permissions",
+    "read": {
+      "api": [
+        "/tuyad_esp/*"
+      ]
+    },
+    "write": {
+      "api": [
+        "/tuyad_esp/*"
+      ]
+    }
+  }
+}
